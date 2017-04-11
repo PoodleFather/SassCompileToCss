@@ -1,0 +1,9 @@
+C:\SampleTest\SassCompileToCss\SassComplieToCss\SassComplieToCss\bin\Debug\SassComplieToCss.exe.config
+C:\SampleTest\SassCompileToCss\SassComplieToCss\SassComplieToCss\bin\Debug\SassComplieToCss.exe
+C:\SampleTest\SassCompileToCss\SassComplieToCss\SassComplieToCss\bin\Debug\SassComplieToCss.pdb
+C:\SampleTest\SassCompileToCss\SassComplieToCss\SassComplieToCss\obj\Debug\SassComplieToCss.csprojResolveAssemblyReference.cache
+C:\SampleTest\SassCompileToCss\SassComplieToCss\SassComplieToCss\obj\Debug\SassComplieToCss.Form1.resources
+C:\SampleTest\SassCompileToCss\SassComplieToCss\SassComplieToCss\obj\Debug\SassComplieToCss.Properties.Resources.resources
+C:\SampleTest\SassCompileToCss\SassComplieToCss\SassComplieToCss\obj\Debug\SassComplieToCss.csproj.GenerateResource.Cache
+C:\SampleTest\SassCompileToCss\SassComplieToCss\SassComplieToCss\obj\Debug\SassComplieToCss.exe
+C:\SampleTest\SassCompileToCss\SassComplieToCss\SassComplieToCss\obj\Debug\SassComplieToCss.pdb
